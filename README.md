@@ -1,2 +1,2 @@
 # Food-blog
-Food Blog CSS prcatice
+Food Blog CSS practice
